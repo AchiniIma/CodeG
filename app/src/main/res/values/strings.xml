@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">My App</string>
+    <string name="email">email</string>
+    <string name="username">username</string>
+    <string name="phone">phone</string>
+    <string name="log_in_to_your_account">Log in to your account</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="phone1">Phone</string>
+    <string name="password">Password</string>
+    <string name="welcome1">Welcome!</string>
 </resources>

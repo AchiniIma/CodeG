@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">My App</string>
-    <string name="email">email</string>
+    <string name="email">Email</string>
     <string name="username">username</string>
     <string name="phone">phone</string>
     <string name="log_in_to_your_account">Log in to your account</string>
@@ -10,4 +10,13 @@
     <string name="phone1">Phone</string>
     <string name="password">Password</string>
     <string name="welcome1">Welcome!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password2">userpw</string>
+    <string name="forgotten_your_password">forgotten_your_password</string>
+    <string name="don_t_have_one">don_t_have_one</string>
+    <string name="send">send</string>
+    <string name="emailverify">emailverify</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="update">update</string>
+    <string name="my_profile">my_profile</string>
 </resources>
